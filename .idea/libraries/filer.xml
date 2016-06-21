@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="filer">
+    <CLASSES>
+      <root url="jar://D:/filer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
